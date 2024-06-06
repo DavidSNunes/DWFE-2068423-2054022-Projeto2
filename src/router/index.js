@@ -9,7 +9,7 @@ import Notifications from '@/views/Notifications.vue';
 const routes = [
   { path: '/', name: 'Home', component: Home },
   { path: '/explore', name: 'Explore', component: Explore },
-  { path: '/profile/:userId', name: 'Profile', component: Profile },
+  { path: '/profile', name: 'Profile', component: Profile },
   { path: '/signin', name: 'SignIn', component: SignIn },
   { path: '/register', name: 'Register', component: Register },
   { path: '/notifications', name: 'Notifications', component: Notifications }

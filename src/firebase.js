@@ -4,13 +4,13 @@ import { getFirestore } from 'firebase/firestore';
 
 // Substitua pelos valores do seu projeto Firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyAar_y83cuaqVTGiEyrNt-yAl0ZLGfzNC0",
-    authDomain: "frontendproject2.firebaseapp.com",
-    projectId: "frontendproject2",
-    storageBucket: "frontendproject2.appspot.com",
-    messagingSenderId: "394653908767",
-    appId: "1:394653908767:web:d84d6217eaa9cf0204ba2a"
-  };
+  apiKey: "AIzaSyAAYL5d0unpuNoJeMCuq5Ar8w5whNWyByw",
+  authDomain: "finalfinalfront.firebaseapp.com",
+  projectId: "finalfinalfront",
+  storageBucket: "finalfinalfront.appspot.com",
+  messagingSenderId: "1093268062304",
+  appId: "1:1093268062304:web:cdba478074958114344305"
+};
 
 // Inicializar o Firebase
 const app = initializeApp(firebaseConfig);
